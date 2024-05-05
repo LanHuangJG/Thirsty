@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Thirsty (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Thirsty (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
